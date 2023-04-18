@@ -2,6 +2,10 @@
     margin: 5px 0;
 }
 
+body {
+    max-width: 100%;
+}
+
 .cavezera {
     height: 200px;
     background-color: white;
@@ -17,7 +21,7 @@ table, td {
     font-family: "Calibri";
     margin: auto;
     text-align:left;
-    padding: 10px 40px;
+    padding: 10px 10px;
     color: white;
     width: 100%;
 }
@@ -34,4 +38,8 @@ table, td {
 
 #menu {
     background-color: rgb(255, 115, 0);
+}
+
+#noficial {
+    font-size: 70%;
 }

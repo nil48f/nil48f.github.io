@@ -32,8 +32,12 @@ table, td {
 }
 
 #logo {
-    height: 81;
-    width: 409;
+    width: 100%;
+}
+
+#logocontainer {
+    max-width: 400px;
+    margin: 0 auto;
 }
 
 #menu {

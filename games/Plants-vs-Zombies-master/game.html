@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>植物大战僵尸</title>
+    <link rel="stylesheet" href="style/game.css">
+</head>
+<body>
+<!--主界面-->
+<div class="wrap" id="wrap">
+    <!--背景图片-->
+    <div class="bg" id="bg"></div>
+    <!--出场僵尸显示-->
+    <div class="zombies" id="zombies"></div>
+    <!--草坪平铺-->
+    <!--分数牌-->
+    <div id="board">
+        <div id="sunBoard">
+            <span id="sunScore">175</span>
+        </div>
+    </div>
+    <!--植物选项卡-->
+    <div id="cardList">
+        <div id="card">
+            <img src="img/PeashooterG.png" alt="PeashooterG">
+            <img src="img/Peashooter.png" alt="Peashooter">
+            <span id="payScore">100</span>
+        </div>
+    </div>
+    <!--植物容器-->
+    <div id="plants"></div>
+    <!--僵尸容器-->
+    <div id="dzombies"></div>
+    <!--游戏提示-->
+    <p id="story">程序猿Cry正在家中编写终极植物的代码。僵尸老大听到风声后大怒，立即派遣僵尸小弟进攻Cry的老巢. . .
+        <br>
+        <span>通关条件：杀死所有僵尸</span>
+        <span>失败条件：僵尸走到房门前</span>
+    </p>
+    <img src="img/PrepareGrowPlants.gif" id="prepare">
+    <img src="img/PointerUP.gif" id="pointUp">
+</div>
+
+
+<script src="script/game.js"></script>
+</body>
+</html>

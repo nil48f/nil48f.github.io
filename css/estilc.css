@@ -53,16 +53,18 @@ table, td {
 }
 
 .links {
-    color: orange;
-    background-color: white;
-    border: 2px solid black;
-    text-decoration: none;
-    border-radius: 15px;
+    color: white;
+    text-decoration: wavy;
     padding: 4px;
     transition-duration: 0.4s;
 }
 
 .links:hover {
     background-color: #4CAF50; /* Green */
-    color: white;
-  }
+    color: black;
+}
+
+.fotos {
+    width: 50%;
+    background-color: gainsboro;
+}

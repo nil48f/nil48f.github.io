@@ -65,6 +65,8 @@ table, td {
 }
 
 .fotos {
-    width: 50%;
+    width: 90%;
     background-color: gainsboro;
+    padding: 5px;
+    margin: 0 auto;
 }

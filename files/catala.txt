@@ -1,0 +1,454 @@
+Catala
+Continua
+COMENÇAR
+Llavor
+Carrega
+Desa
+Suprimeix
+Configuració
+Sortida
+Discòrdia
+Hivern
+Pacífic
+Embragatge automàtic
+Canvi automàtic
+Distància conduïda
+Còpia
+km
+Pàgina
+Compte
+esquena
+Captura de pantalla en 3D
+Nom
+Data
+Impulsat
+Versió
+Sobreescriure Desar?
+Carregar desar?
+Vols suprimir desar?
+Carregar l'últim desat?
+Carrega l'últim
+Sí
+No
+Aleatori
+RESET
+Restableix
+Restableix tot
+Restableix el camí
+Jugador
+Ràdio personalitzada
+Volant
+So
+Límit de FPS
+Dibuixa el mirall de distància
+Dibuixa la distància
+Mida de la rajola del terreny
+Escala de punt de mira
+Sensibilitat de la mirada
+horitzontal (X)
+Vertical (Y)
+Sensibilitat de desplaçament
+Sensibilitat al moviment d'objectes
+Sensibilitat de rotació d'objectes
+Camp de visió a peu
+Camp de visió al cotxe
+Sensibilitat de l'aspecte del teclat
+Invertir
+Assignar
+Activa
+Mort
+Sens
+Màx
+Mostra els valors al joc
+H-Shifter
+Dirigeix
+Acelerador
+Fre
+Embragatge
+Fre de mà
+Canvia el canvi de marxa aquí
+Mig
+Afecta als FPS
+Sincronització V
+Processament posterior
+Profunditat de camp
+Heat Haze
+Reflexions
+Terreny llunyà
+Boira
+Ombres
+Miralls
+Herba
+Fum
+Antialiasing
+Filtrat anisotròpic
+Per textura
+Forçat
+Sèpia
+Escala de grisos
+Paleta de colors C64
+Desactiva el model de jugador
+Habilitar en primera persona
+Caminar Headbob
+Drive Headbob
+Desactiva l'emmagatzematge automàtic
+Desactivar al cotxe
+Continuació automàtica
+Ajuda de controls
+Punt de mira
+Antic punt de mira
+Old Heat Haze
+Mostra FPS
+Pantalla DropCam
+Cabell
+celles
+Bigoti
+Ulls
+Camisa
+Pantalons
+Sabates
+Pell
+Desa/Carrega
+Menú principal
+Cancel · lar
+Esperant Resposta
+Sortir?
+Només des del menú principal
+Carregant
+Recollida
+Separar
+Ús
+Empènyer
+Empènyer i dirigir
+Adjuntar
+Muntanya
+Encendre
+Tanca
+Obrir tancar
+Aigua
+Gas
+Oli
+Sang
+Dièsel
+Alcohol
+Activar/desactivar
+Obert
+Tanca
+Obrir/tancar suaument
+Desmuntar
+seure
+Connecta't
+Desconnecta
+Beure
+Omplir
+Sortir/aixecar-se
+Focus
+Foc
+LMB
+Ratolí
+F
+E
+Conduir
+R
+Desplaça't amunt/avall
+Recarregar
+Enganxa't
+(complet)
+buit
+%
+L
+Gira
+Tab
+Equipar
+V
+Dormir
+Adormir-se
+Encara no puc dormir
+Trenca el barril
+Dipòsit d'oli
+Refrigerant
+Tanc de combustible
+Ajustar
+Sintonitza
+Volum +/-
+Atura
+Llums
+Encesa
+Dempeus
+RMB
+MMB
+Desplaçament
+Gira
+Mou-te
+Centre de RV
+G
+Desat automàtic
+Bevent
+Rentar
+Fregar
+Pols
+Premeu
+Pintura
+Manivela
+Atacar
+jo
+Espai
+Revés
+Ctrl
+Neutre
+N
+Canvi de marxa
+Magra
+Inclineu-vos cap amunt/avall
+Q
+L
+Canvi amunt
+Canvi avall
+Accelerar
+↑
+↓
+W
+A
+S
+D
+1-4
+Endavant
+Enrere
+Esquerra
+Dret
+Saltar
+Correr
+Ajupir-se
+Smooth Crouch
+Inventari
+Eructar
+Pet
+Pixar
+Mira
+Zoom
+Amaga HUD
+Càmera de gota petita
+Captura de pantalla de 360°
+Càmera 360°
+Canvi
+B
+P
+Manteniu Q
+Z
+Y
+Retrocés
+F4
+F5
+F6
+F7
+Banya
+Restableix Lean
+Càmera
+Deixa caure la càmera
+Aspecte del teclat
+H
+C
+Manteniu C
+X
+A peu
+En cotxe
+Vestíbuls
+Vestíbul
+Xatejar
+[Esc]
+Actualització
+Desconnecta
+Uneix-te
+Contrasenya
+Contrasenya incorrecta o temps d'espera
+D'acord
+[⏎]: Envia
+Nom del vestíbul
+LobbyType
+Màxim jugadors
+Els jugadors apareixen
+A l'inici
+Prop de l'amfitrió
+Crear
+Públic
+Només Amics
+InviteOnly
+Mida
+Notificació
+Saló de l'Automòbil
+Ocultació automàtica
+Mostra els noms
+Xat de veu
+Premeu per parlar
+Commuta
+Contínua
+S'ha unit correctament al vestíbul
+No s'ha pogut unir al lobby
+Vestíbul creat
+No s'ha pogut crear el vestíbul
+Algú s'ha unit
+Algú va marxar
+ping
+Senyora
+Vestíbul esquerre
+Error
+S'estableix com a propietari del vestíbul
+Generar
+Escriu el missatge aquí
+Restableix el viatge
+Estableix la direcció
+Ajustar el temps
+Desert
+Frega/Ona
+Alt
+No es pot desar
+Mentre Dormia
+Mentre estava assegut aquí
+O Dormir
+O assegut aquí
+No dormis
+No seure
+I Seu
+I Dormir
+Continua intentant-ho!
+Salvat!
+Bobina cap amunt
+Escorreu
+Descarregar
+Cilindre obert
+Posar-se
+Majúscules activades
+Accessoris Take Off
+Efectes ulleres de sol
+Mixt
+Bioma
+Menja
+Fum
+Brunzit
+Agafa'n un
+Fam, Set
+Mostra sempre HP
+Mostra sempre el menjar
+Mostra sempre l'aigua
+Mostra sempre Piss
+Mostra sempre la merda
+Gràfics
+Controls
+Misc
+Hz
+Resolució
+Pantalla
+Pantalla completa exclusiva
+Finestra de pantalla completa
+Finestra maximitzada
+Finestrat
+x
+Mode
+m
+°
+Habilitat
+Inhabilitat
+Cap
+LUT
+volum
+fm
+soc
+canviar am/fm
+Sensibilitat de direcció del teclat
+Sensibilitat de direcció del ratolí
+Sensibilitat de l'accelerador/fre del ratolí
+Avançar
+Retrocedir
+Mou-te a l'esquerra
+Mou a la dreta
+Cercar
+Mirar cap avall
+Mira a l'esquerra
+Mira a la dreta
+Foc, Acció Primària
+Acció Secundària
+Gira
+Correr
+Saltar
+Ajupir-se
+Utilitzar, interactuar
+Recollida
+Recarregar
+Muntar/Desmuntar
+Empènyer
+Equipar, Recenter
+Magra
+Pixar
+Eruc/Pet
+Objectiu
+Vista de mapa
+Adjuntar
+Dormir
+Ona/frega
+Brunzit
+Fum
+Traieu els accessoris
+Espai d'inventari 1
+Espai d'inventari 2
+Espai d'inventari 3
+Espai d'inventari 4
+Desplaçar-se cap amunt
+Desplaça cap avall
+Canvia càmera
+Zoom
+Amaga HUD
+Col·loqueu la càmera de caiguda
+Feu una captura de pantalla en 3D
+Feu una captura de pantalla de 360°
+Càmera 360°
+Centre de RV
+Xat multijugador
+Xat de veu
+Mireu al vostre voltant amb les tecles de moviment
+Commuta la conducció del ratolí
+Acelerador
+Fre
+Gireu cap a l'esquerra
+Gireu a la dreta
+Embragatge
+Commuta el fre de mà
+Canvi cap amunt
+Redueix de marxa
+Canvi al revés
+Canvi a neutral
+Canvia a 1
+Canvi a 2
+Canvi a 3
+Canvi a 4
+Canvi a 5
+Canvi a 6
+Encesa
+Banya
+Llums
+Restableix els controls
+Manual de força
+Personatge
+Pestanyes
+Bloqueig de física
+Guantera, cistella
++ Bagul, bastidor
++ Tot l'interior
+Multijugador
+Interruptor
+Ombres dels núvols
+Camí de renderització
+Endavant
+Ajornat
+3D estereoscòpic
+Anaglif
+SBS (L/R)
+SBS (R/L)
+profunditat
+Objectes del cel
+Reducció de residus
+Col·lisió
+Encès
+Apagat
+Punt de fixació
+Origen
+Punt més proper

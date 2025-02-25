@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cat">
+<html lang="ca">
     <head>
         <title>Nil Balaguer Fernandez</title>
         <meta charset="UTF-8">
@@ -34,7 +34,8 @@
         <script>
             document.addEventListener("DOMContentLoaded", function () {
                 var images = "images/nuria/nur";
-                var randomImage = images + Math.floor(Math.random()) + ".jpg";
+                var totalImages = 20; // Ajusta según la cantidad real de imágenes
+                var randomImage = images + (Math.floor(Math.random() * totalImages)+ 1) + ".jpg";
                 document.body.style.backgroundImage = "url('" + randomImage + "')";
             });
         </script>
